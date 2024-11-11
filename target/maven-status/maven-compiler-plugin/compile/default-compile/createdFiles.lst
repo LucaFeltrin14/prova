@@ -1,0 +1,6 @@
+br/Insper/ProvaFinal/ProvaFinalApplication.class
+br/Insper/ProvaFinal/Carros/dto/UsuarioDTO.class
+br/Insper/ProvaFinal/Carros/service/CarroService.class
+br/Insper/ProvaFinal/Carros/repository/CarroRepository.class
+br/Insper/ProvaFinal/Carros/model/Carro.class
+br/Insper/ProvaFinal/Carros/controller/CarroController.class
