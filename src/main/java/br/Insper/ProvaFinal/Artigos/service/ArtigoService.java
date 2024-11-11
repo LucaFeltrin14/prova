@@ -2,7 +2,7 @@ package br.Insper.ProvaFinal.Artigos.service;
 
 import br.Insper.ProvaFinal.Artigos.model.Artigo;
 import br.Insper.ProvaFinal.Artigos.repository.ArtigoRepository;
-import br.Insper.ProvaFinal.Carros.dto.UsuarioDTO;
+import br.Insper.ProvaFinal.Artigos.dto.UsuarioDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.*;
 import org.springframework.stereotype.Service;
